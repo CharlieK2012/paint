@@ -1,0 +1,15 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+}
+
+#myCanvas
+{
+border-width:10px;
+background-color: rgb(3, 238, 167);
+border-style:ridge;
+}
